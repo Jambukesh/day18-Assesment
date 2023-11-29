@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\days\day 18\luckyspin\luckyspin\bin\Debug\luckyspin.exe.config
+D:\mphasis\problem statement\days\day 18\luckyspin\luckyspin\bin\Debug\luckyspin.exe
+D:\mphasis\problem statement\days\day 18\luckyspin\luckyspin\bin\Debug\luckyspin.pdb
+D:\mphasis\problem statement\days\day 18\luckyspin\luckyspin\obj\Debug\luckyspin.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\days\day 18\luckyspin\luckyspin\obj\Debug\luckyspin.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\days\day 18\luckyspin\luckyspin\obj\Debug\luckyspin.exe
+D:\mphasis\problem statement\days\day 18\luckyspin\luckyspin\obj\Debug\luckyspin.pdb
